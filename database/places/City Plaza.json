@@ -1,0 +1,14 @@
+{
+    "name":  "City Plaza",
+    "image": "plaza.jpg",
+    "description": "The city proper, where a statue of Dr. Jose Rizal and the tallest pylon in the Philippines sits (santarosacity.gov.ph). Most events were held in the plaza, like the Sikhayan Festival in which is celebrated on January 18. ",
+    "sources": [
+        "https://santarosacity.gov.ph/about-sta-rosa/heritage-site/"
+    ],
+    "commute": "Ride a jeep with a sign \"Bayan\" or \"Tagapo\". The common fare rate is P10",
+    "address": " Rizal Blvd, 4026, Brgy. Kanluran, Santa Rosa",
+    "lat": 14.314116,
+    "lng": 121.112082,
+    "streetviewlink" : "https://www.instantstreetview.com/@14.31415,121.112388,261.64h,3.92p,0z,Y7IyeToX30rPA016e1Rj9Q",
+    "voiceasset": "plaza.mp3"
+}
