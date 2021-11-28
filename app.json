@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Gala: Virtual Tour Guide",
+    "slug": "virtualtourguide",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/app/icon.png",
+    "splash": {
+      "image": "./assets/app/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "assets/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.itcapstone.gala"
+    },
+    "web": {
+      "favicon": "./assets/app/favicon.png"
+    }
+  }
+}
